@@ -4,7 +4,11 @@
     "HEDVersion": "8.3.0",
     "Description": "All of the datasets here contain neuroPAL whole-brain structural images. A subset of these files also contain unstimulated calcium imaging data from the worm immobilized in a micro fluidic chip. Each dataset has ~30-50% of neuron centers labeled with cell IDs.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Dunn, Raymond",
+        "Sprague, Daniel",
+        "Kato, Saul"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
